@@ -67,17 +67,17 @@
   };
 
   FileHandler._EXT_TO_MIME = {
-    ".img": "image/jpeg",
-    ".png": "image/png",
-    ".gif": "image/gif",
-    ".xml": "application/xml",
-    ".xsl": "application/xml",
-    ".html": "text/html",
-    ".htm": "text/html",
-    ".svg": "image/svg+xml",
-    ".svgz": "image/svg+xml",
-    ".json": "application/json",
-    ".js": "application/javascript"
+//     ".img": "image/jpeg",
+//     ".png": "image/png",
+//     ".gif": "image/gif",
+//     ".xml": "application/xml",
+//     ".xsl": "application/xml",
+//     ".html": "text/html",
+//     ".htm": "text/html",
+//     ".svg": "image/svg+xml",
+//     ".svgz": "image/svg+xml",
+//     ".json": "application/json",
+//     ".js": "application/javascript"
   };
 
   FileHandler._RESPONSE_HANDLERS =
